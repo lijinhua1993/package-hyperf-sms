@@ -7,7 +7,7 @@
         "hyperf",
         "sms"
     ],
-    "description": "适用于hyperf的短信发送(移植自overtrue/easy-sms)",
+    "description": "适用于hyperf的短信发送",
     "autoload": {
         "psr-4": {
             "Lijinhua\\HyperfSms\\": "src/"
